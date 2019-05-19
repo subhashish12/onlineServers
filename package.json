@@ -1,0 +1,16 @@
+{
+  "name": "find-servers",
+  "version": "1.0.0",
+  "description": "to find online servers with lowest priority",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "subhashish negi",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.1.4",
+    "nodemon": "^1.19.0",
+    "request": "^2.88.0"
+  }
+}
